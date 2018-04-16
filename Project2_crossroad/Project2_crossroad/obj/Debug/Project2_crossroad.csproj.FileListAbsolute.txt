@@ -1,0 +1,9 @@
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\bin\Debug\Project2_crossroad.exe.config
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\bin\Debug\Project2_crossroad.exe
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\bin\Debug\Project2_crossroad.pdb
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.csprojResolveAssemblyReference.cache
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.CrossRoad.resources
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.Properties.Resources.resources
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.csproj.GenerateResource.Cache
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.exe
+C:\Users\Aracely\Desktop\tarea lab\Project2_crossroad\Project2_crossroad\obj\Debug\Project2_crossroad.pdb
